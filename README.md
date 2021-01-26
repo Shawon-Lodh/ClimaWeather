@@ -4,7 +4,7 @@
 
 A weather app with live weather data in the current location of the device as well as the weather for any city anyone can think of! This app is designed after inspired by the beautiful designs made by [Olia Gozha](https://dribbble.com/shots/4663154-).
 
-![Finished App](https://github.com/Shawon-Lodh/BMI-Calculator/blob/main/bmi_calculator.gif)
+![Finished App](https://github.com/Shawon-Lodh/ClimaWeather/blob/main/clima.gif)
 
 ## Language
 - Dart
