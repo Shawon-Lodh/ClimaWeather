@@ -15,10 +15,14 @@ A weather app with live weather data in the current location of the device as we
 
 ## Strengths
 - Using the Geolocator package to get live location data for both iOS and Android.
-- USing the TextField Widget to take user input.
-- Using Dart to perform asynchronous tasks and await for api access.
+- Using the TextField Widget to take user input.
+- API Integration with [OpenWeather](https://openweathermap.org/).
+- Secondary option is getting weather data by city searching.
 - Using Dart http package to connect with the network for api access.
+- Using Dart to perform asynchronous tasks and await for api access.
 - Parsing recieved json format data from api access using the Dart convert package.
+- Animation Loading UI in the time of Data Fetching from internet.
+- Temperature Icon showing based on Temperature Data and showing a suggestion for enduring this temperature.  
 - Using Flutter themes to create coherent branding.
 - Multi-page apps using Flutter Routes and Navigator.
 - Passing data forwards and backwards between screens using the Navigator.
